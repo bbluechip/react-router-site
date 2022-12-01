@@ -13,7 +13,7 @@
 👉 Github & Git commands (push, pull, commit, add etc.)
 
 ## Description
-I made this website when training about react-router library and react-bootstrap library. This is workshet site.
+I made this website when training about react-router library and react-bootstrap library. This is worksheet site.
 
 # Getting Started with Create React App
 clone repository to your own local file and
