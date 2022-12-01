@@ -26,4 +26,4 @@ to install modules after,
 
 to see project on local host. 
 
-(Some projects may not work poroperly because free api services)
+(Some projects may not work properly because free api services)
